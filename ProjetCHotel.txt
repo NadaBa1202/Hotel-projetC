@@ -1,0 +1,32 @@
+Binomes: Ben Abdelhafidh Nada & Jlassi Chaima
+Thème: Hotel
+Description:
+Ce projet consiste en une interface graphique programmée en C pour la gestion complète d'un hôtel. L'objectif est de faciliter l'administration des services d'hébergement ainsi que des événements organisés au sein de l'hôtel, en offrant une expérience utilisateur intuitive et personnalisée.
+Fonctionnalités principales :
+
+Réservation de chambres : Un module permettant aux utilisateurs de réserver des chambres avec des options personnalisées (type de chambre, nombre de personnes, durée de séjour, etc.).
+
+Gestion des chambres : Un système de gestion qui permet de visualiser la disponibilité des chambres, d’ajouter ou de supprimer des chambres, et de mettre à jour leurs statuts (disponible, occupée, en maintenance).
+
+Check-in / Check-out : Un processus de check-in et check-out pour gérer l’entrée et la sortie des clients, avec mise à jour automatique de la disponibilité des chambres.
+
+Historique des réservations : Un registre consultable pour suivre les réservations passées, permettant un accès rapide aux informations pour des besoins de suivi et de gestion.
+
+Gestion des animaux domestiques : Une option dédiée aux clients voyageant avec des animaux, qui permet de suivre les chambres où des animaux sont présents et de proposer des services associés.
+
+Fonctionnalités supplémentaires pour les événements :
+
+Cet hôtel n’est pas uniquement réservé aux séjours, mais propose également des services pour des événements variés tels que des fêtes, des conférences et des célébrations. Le système intègre les éléments suivants :
+
+Réservation et gestion d'événements : Vérification de la disponibilité des espaces pour différents types d’événements, avec options pour visualiser et réserver en fonction de la capacité.
+Équipe organisatrice : L'hôtel dispose d'une équipe dédiée pour répondre aux besoins spécifiques des clients, avec des services personnalisés comme le choix de thèmes, la musique et le menu pour chaque événement.
+Champ d’activités pour enrichir l’expérience client :
+
+Pour offrir un séjour enrichi, l’hôtel propose des activités variées :
+
+Guides d'itinéraires : Des suggestions d'itinéraires touristiques et des conseils de visites.
+Club de lecture : Un espace de rencontre pour les amateurs de lecture, où des événements littéraires sont organisés.
+Événements sportifs : Activités et événements sportifs auxquels les clients peuvent participer en effectuant des réservations.
+Cette interface vise à centraliser toutes ces fonctionnalités pour une gestion simplifiée et efficace de l'hôtel, tout en offrant une expérience riche et personnalisée aux clients.
+
+
