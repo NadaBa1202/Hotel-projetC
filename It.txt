@@ -1,0 +1,3 @@
+Participant: john, Jour: lundi, Heure: 08:00, Durée: 30, Activité: Yoga
+Participant: john, Jour: lundi, Heure: 09:00, Durée: 60, Activité: Excursion
+Participant: john, Jour: lundi, Heure: 11:00, Durée: 45, Activité: Monuments

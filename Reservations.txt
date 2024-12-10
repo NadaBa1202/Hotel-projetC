@@ -1,0 +1,4 @@
+Client nom: kon, prenom: kon, Chambre: 206, Accompagnants: 5, date du check-in: 12/202/2004, date du check-out: 12/02/2004
+Client nom: john, prenom: john, Chambre: 102, Accompagnants: 1, Check-in: 12/02/2004, Check-out: 12/02/2004
+Client nom: john, prenom: shumitt, Chambre: 101, Accompagnants: 0, Check-in: 12/05/2025, Check-out: 13/05/2025
+Client nom: John, prenom: Schummit, Chambre: 402, Accompagnants: 2, Check-in: 12/05/2025, Check-out: 13/05/2025
